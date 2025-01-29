@@ -7,3 +7,6 @@ This project is dedicated to creating a vibrant and dynamic experience for users
 
 # [VERSA](https://www.figma.com/file/XHBmXmzN0J808Strsn4dvi/VERSA-%2F%2F-LANDING-PG?type=design&mode=design&t=22pcPhamRCqXluAL-1)
 This project is dedicated to creating a sleek and sophisticated experience for users engaging with Versa's male clothing brand. With a focus on modern design principles and a masculine aesthetic, each page within this project is meticulously crafted to provide a visually appealing and engaging experience.
+
+# [KATZ 2.0](https://www.figma.com/design/8u8ErULfYxUYc9QdZf4zIG/KATZ-2025?node-id=0-1&t=A6EbGBioDgaOCzZZ-1)
+Katz 2.0 is an exciting project aimed at delivering a vibrant and dynamic user experience centered around Katz-related content. 
