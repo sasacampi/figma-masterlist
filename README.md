@@ -8,7 +8,10 @@ Crafted with love (and a lot of cat hair), this project was brought to life thro
 
 Check it out, and let me know what you think – because every cat deserves a scratch-tastic experience! 🖤
 
+
+
 ![Screenshot de Landing Page](https://imgur.com/QbXilOD.png)
+
 📧 [Cat scratcher e-commerce 1.0](https://www.figma.com/file/4ZiCIvqxdkD3wbEZyXyrGV/KATZ?type=design&node-id=0%3A1&mode=design&t=22pcPhamRCqXluAL-1)
 
 Before Katz became the sleek, scratch-tastic hub it is today, there was the original version – the design that started it all! 🐱✨
@@ -17,7 +20,10 @@ This old-school version of Katz holds a special place in my heart as the foundat
 
 It’s a reminder of how far we’ve come and how much we’ve learned along the way. So here’s to the OG Katz design – the first step in creating a purr-fect destination for cat scratchers! 🖤
 
+
+
 ![Screenshot de Landing Page](https://imgur.com/fKYQtM8.png)
+
 📧 [Male clothing e-commerce](https://www.figma.com/file/XHBmXmzN0J808Strsn4dvi/VERSA-%2F%2F-LANDING-PG?type=design&mode=design&t=22pcPhamRCqXluAL-1)
 Versa was all about sleek, masculine style – from curated fashion to grooming essentials, it was designed to cater to the modern man. While it may not be my most polished work (hey, we all start somewhere!), it was a huge learning experience and a stepping stone in my design and coding journey.
 
