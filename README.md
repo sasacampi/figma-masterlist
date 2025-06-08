@@ -9,7 +9,7 @@ This repository contains a collection of Figma designs for various projects.
 
 📧 [Mobile app for construction workers - PontoObra ](https://www.figma.com/design/xlr6UL5uIvEdww5zob12GB/Untitled?node-id=0-1&t=MXHobchKZXud5Sga-1)
 
-📧 [Woman's Safety App - VIVA! ](https://www.figma.com/design/bqqQISmBEGGVpfzCtQTvPR/Seguran%C3%A7a-da-mulher?node-id=0-1&t=Y6rHBL1LD5EXJc8p-1))
+📧 [Woman's Safety App - VIVA!](https://www.figma.com/design/bqqQISmBEGGVpfzCtQTvPR/Seguran%C3%A7a-da-mulher?node-id=0-1&t=Y6rHBL1LD5EXJc8p-1)
 
 📧 [E-commerce Nutritional App based on TACO table](https://www.figma.com/design/zqm22lA4IM4haMtqJNPmxK/TacoTrak--Copy-?node-id=0-1&t=2iNxmI6av5jrzyn3-1)
 
